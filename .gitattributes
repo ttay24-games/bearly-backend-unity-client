@@ -13,3 +13,4 @@ text=auto
 *.asset merge=unityyamlmerge eol=lf
 *.meta merge=unityyamlmerge eol=lf
 *.controller merge=unityyamlmerge eol=lf
+TG24.BearlyBackendClient/Packages/com.tg24.bearlybackendclient/**/*.dll filter=lfs diff=lfs merge=lfs -text
