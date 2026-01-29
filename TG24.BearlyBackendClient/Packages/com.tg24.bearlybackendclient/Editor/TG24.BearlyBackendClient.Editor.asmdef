@@ -1,0 +1,18 @@
+{
+    "name": "TG24.BearlyBackendClient.Editor",
+    "rootNamespace": "TG24.BearlyBackendClient.Editor",
+    "references": [
+        "TG24.BearlyBackendClient"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

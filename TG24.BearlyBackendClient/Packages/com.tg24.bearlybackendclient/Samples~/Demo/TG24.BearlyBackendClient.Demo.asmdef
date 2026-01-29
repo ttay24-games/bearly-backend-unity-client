@@ -1,0 +1,16 @@
+{
+    "name": "TG24.BearlyBackendClient.Demo",
+    "rootNamespace": "TG24.BearlyBackendClient.Demo",
+    "references": [
+        "TG24.BearlyBackendClient"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

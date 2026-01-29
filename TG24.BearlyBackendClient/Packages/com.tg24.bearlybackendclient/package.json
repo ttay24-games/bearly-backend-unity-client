@@ -1,0 +1,23 @@
+{
+  "name": "com.tg24.bearlybackendclient",
+  "displayName": "TG24.BearlyBackendClient",
+  "description": "TG24.BearlyBackendClient description goes here.",
+  "keywords": [],
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/ttay24-games/bearly-backend-unity-client#documentation",
+  "changelogUrl": "https://github.com/ttay24-games/bearly-backend-unity-client/releases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/ttay24-games/bearly-backend-unity-client.git"
+  },
+  "author": {
+    "name": "ttay24",
+    "url": "https://github.com/ttay24"
+  },
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
