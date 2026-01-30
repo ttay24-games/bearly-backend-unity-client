@@ -1,7 +1,9 @@
 {
     "name": "TG24.BearlyBackendClient",
     "rootNamespace": "TG24.BearlyBackendClient",
-    "references": [],
+    "references": [
+        "Cysharp.Net.Http.YetAnotherHttpHandler"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
